@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Kamlesh Prajapati Portfolio Preview</title>
+  <desc id="desc">Dark editorial portfolio preview for Kamlesh Prajapati, freelance full-stack developer.</desc>
+  <rect width="1200" height="630" fill="#0A0A0A"/>
+  <rect x="76" y="72" width="1048" height="486" fill="#111111" stroke="#1F1F1F"/>
+  <text x="108" y="146" fill="#C8F135" font-family="JetBrains Mono, monospace" font-size="24" font-weight="700">AVAILABLE FOR PROJECTS · AHMEDABAD, INDIA</text>
+  <text x="108" y="258" fill="#F0EDE8" font-family="Space Grotesk, Arial, sans-serif" font-size="82" font-weight="700">Kamlesh Prajapati</text>
+  <text x="108" y="344" fill="#F0EDE8" font-family="Space Grotesk, Arial, sans-serif" font-size="62" font-weight="700">Full-Stack Web Developer</text>
+  <text x="108" y="420" fill="#6B6B6B" font-family="Inter, Arial, sans-serif" font-size="30">React · Laravel · Node.js · SaaS · AI Integrations</text>
+  <rect x="108" y="474" width="244" height="64" fill="#C8F135"/>
+  <text x="136" y="515" fill="#0A0A0A" font-family="JetBrains Mono, monospace" font-size="22" font-weight="700">LET'S TALK</text>
+</svg>

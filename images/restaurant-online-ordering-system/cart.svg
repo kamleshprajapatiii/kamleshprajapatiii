@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#0b0b0b"/>
+  <rect x="60" y="52" width="1080" height="656" rx="26" fill="#111" stroke="#2a2a2a"/>
+  <text x="96" y="130" fill="#f0ede8" font-family="Inter, Arial" font-size="34" font-weight="700">Cart & Order Review</text>
+  <text x="96" y="164" fill="#6b6b6b" font-family="Inter, Arial" font-size="18">Customer can edit quantity, notes, taxes, and delivery method.</text>
+  <rect x="96" y="214" width="650" height="398" rx="18" fill="#151515" stroke="#2a2a2a"/>
+  <rect x="782" y="214" width="270" height="398" rx="18" fill="#0d0d0d" stroke="#2a2a2a"/>
+  <g fill="#1d1d1d"><rect x="126" y="250" width="590" height="82" rx="12"/><rect x="126" y="356" width="590" height="82" rx="12"/><rect x="126" y="462" width="590" height="82" rx="12"/></g>
+  <g fill="#2f2f2f"><rect x="150" y="274" width="74" height="34" rx="10"/><rect x="150" y="380" width="74" height="34" rx="10"/><rect x="150" y="486" width="74" height="34" rx="10"/></g>
+  <g font-family="Inter, Arial" font-size="20" font-weight="700" fill="#f0ede8"><text x="250" y="300">Paneer Pizza</text><text x="250" y="406">Veg Sandwich</text><text x="250" y="512">Cold Coffee</text></g>
+  <g font-family="JetBrains Mono, monospace" font-size="14" fill="#6b6b6b"><text x="250" y="322">Qty 2 · extra cheese</text><text x="250" y="428">Qty 1 · no onion</text><text x="250" y="534">Qty 3 · less sugar</text></g>
+  <text x="820" y="274" fill="#c8f135" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700">ORDER SUMMARY</text>
+  <g font-family="Inter, Arial" font-size="18" fill="#f0ede8"><text x="820" y="330">Subtotal</text><text x="820" y="378">GST</text><text x="820" y="426">Delivery</text><text x="820" y="506" font-weight="700">Total</text></g>
+  <g font-family="JetBrains Mono, monospace" font-size="18" fill="#f0ede8"><text x="970" y="330">₹846</text><text x="970" y="378">₹42</text><text x="970" y="426">₹40</text><text x="960" y="506" fill="#c8f135">₹928</text></g>
+  <rect x="820" y="552" width="194" height="46" rx="23" fill="#c8f135"/><text x="864" y="581" fill="#0a0a0a" font-family="JetBrains Mono, monospace" font-size="14" font-weight="700">Checkout</text>
+</svg>

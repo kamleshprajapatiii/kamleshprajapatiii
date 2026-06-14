@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#0b0b0b"/>
+  <rect x="58" y="52" width="1084" height="656" rx="26" fill="#111" stroke="#2a2a2a"/>
+  <text x="96" y="130" fill="#f0ede8" font-family="Inter, Arial" font-size="34" font-weight="700">Kitchen Order Screen</text>
+  <text x="96" y="164" fill="#6b6b6b" font-family="Inter, Arial" font-size="18">Live status columns for received, cooking, ready, and delivered orders.</text>
+  <g font-family="JetBrains Mono, monospace" font-size="13" font-weight="700">
+    <text x="106" y="244" fill="#c8f135">NEW</text><text x="374" y="244" fill="#c8f135">COOKING</text><text x="654" y="244" fill="#c8f135">READY</text><text x="916" y="244" fill="#c8f135">DELIVERED</text>
+  </g>
+  <g fill="#151515" stroke="#2a2a2a"><rect x="96" y="268" width="230" height="356" rx="18"/><rect x="362" y="268" width="230" height="356" rx="18"/><rect x="628" y="268" width="230" height="356" rx="18"/><rect x="894" y="268" width="210" height="356" rx="18"/></g>
+  <g fill="#202020"><rect x="120" y="300" width="182" height="86" rx="12"/><rect x="120" y="410" width="182" height="86" rx="12"/><rect x="386" y="300" width="182" height="110" rx="12"/><rect x="652" y="300" width="182" height="86" rx="12"/><rect x="918" y="300" width="162" height="86" rx="12"/></g>
+  <g font-family="Inter, Arial" font-size="18" fill="#f0ede8" font-weight="700"><text x="140" y="334">#1042</text><text x="140" y="444">#1043</text><text x="406" y="334">#1040</text><text x="672" y="334">#1039</text><text x="938" y="334">#1038</text></g>
+  <g font-family="Inter, Arial" font-size="14" fill="#6b6b6b"><text x="140" y="362">2 pizza, 1 coke</text><text x="140" y="472">1 burger</text><text x="406" y="362">5 item family order</text><text x="672" y="362">Pickup counter</text><text x="938" y="362">Completed</text></g>
+</svg>

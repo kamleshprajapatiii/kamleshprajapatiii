@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="KP">
+  <rect width="64" height="64" rx="10" fill="#0A0A0A"/>
+  <rect x="8" y="8" width="48" height="48" rx="6" fill="#111111" stroke="#1F1F1F"/>
+  <text x="32" y="40" fill="#C8F135" font-family="Space Grotesk, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">KP</text>
+</svg>
